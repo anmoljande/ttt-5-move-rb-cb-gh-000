@@ -13,7 +13,7 @@ def input_to_index(num)
 
 end
 
-def move(board,pindex,val="X")
+def move(board,bindex,val="X")
   
 
 end
