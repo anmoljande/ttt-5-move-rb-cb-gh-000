@@ -15,7 +15,8 @@ end
 
 def move(board,bindex,val="X")
   
-
+  
+return board
 end
 
 
