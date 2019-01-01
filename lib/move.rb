@@ -8,9 +8,7 @@ end
 
 def input_to_index(num)
 
-  
-
-
+num
 end
 
 def move(board,bindex,val="X")
